@@ -19,8 +19,6 @@ git clone https://github.com/AkshaySolanki-DA/Bank-Account-Management-System.git
 Bank Account Management System.ipynb
 3. Run the Notebook and execute all cells to launch the menu.
 
-
-
 Menu Options
 ====== Bank Menu ======
 1. Open a new account
@@ -40,19 +38,8 @@ bank-account-system/
 │── credentials.pkl                        # Stored usernames & passwords
 │── README.md                              # Project documentation
 📊 Sample Output
-====== Transaction History for Account: 12345678 ======
+<img width="777" height="450" alt="image" src="https://github.com/user-attachments/assets/6316c40d-62ef-4aa7-862d-41cac4603f46" />
 
-Date                 Type                 Amount     Balance
-------------------------------------------------------------
-2025-09-02 14:30:21  Deposit              500.00     1500.00
-2025-09-02 15:10:45  Withdraw             200.00     1300.00
-
-====== Account Summary ======
-Total Transactions   : 2
-Total Deposits       : 500.00
-Total Withdrawals    : 200.00
-Average Transaction  : 350.00
-Current Balance      : 1300.00
 📌 Future Improvements
 •	Add interest calculation for savings accounts
 •	Implement user roles (admin vs. user)
