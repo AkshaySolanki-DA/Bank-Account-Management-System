@@ -38,7 +38,9 @@ bank-account-system/
 │── credentials.pkl                        # Stored usernames & passwords
 │── README.md                              # Project documentation
 📊 Sample Output
-<img width="777" height="450" alt="image" src="https://github.com/user-attachments/assets/6316c40d-62ef-4aa7-862d-41cac4603f46" />
+<img width="364" height="300" alt="image" src="https://github.com/user-attachments/assets/743a5d20-b418-48a1-9252-7585c4c5197e" />
+
+<img width="651" height="323" alt="image" src="https://github.com/user-attachments/assets/6eb0e8d0-168c-4309-931d-7a6e2edc7ac5" />
 
 📌 Future Improvements
 •	Add interest calculation for savings accounts
