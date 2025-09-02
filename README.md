@@ -14,7 +14,7 @@ A Bank Account Management System implemented in Python 3.13 using Jupyter Notebo
 🚀 Getting Started
 1. Clone the Repository
 git clone https://github.com/AkshaySolanki-DA/Bank-Account-Management-System.git
-cd bank-account-system
+
 2. Open in Jupyter Notebook
 Bank Account Management System.ipynb
 3. Run the Notebook and execute all cells to launch the menu.
