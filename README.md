@@ -47,5 +47,3 @@ bank-account-system/
 •	Implement user roles (admin vs. user)
 •	Export transaction history to CSV/Excel
 •	Add a GUI (Tkinter or PyQt)
-🧑‍💻 Author
-Developed by [Your Name]. Feel free to fork, modify, and contribute!
